@@ -8,7 +8,6 @@ function App() {
   return (
       <div>
           <Homescreen />
-          <Homebutton />
       </div>
   );
 }
